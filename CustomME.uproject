@@ -76,6 +76,10 @@
 		{
 			"Name": "MoviePipelineMaskRenderPass",
 			"Enabled": true
+		},
+		{
+			"Name": "BackUp",
+			"Enabled": true
 		}
 	]
 }
